@@ -1,0 +1,10 @@
+.maindiv {
+    background-image: url("./assets/papar.png");
+    background-position: center;
+    background-size: cover;
+    width: 300px;
+    height: auto;
+    border-radius: 20pt;
+    margin: 8pt;
+    padding: 1%;
+}

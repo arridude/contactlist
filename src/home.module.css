@@ -1,0 +1,23 @@
+.thelogo {
+    height: 170px;
+    width: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+p {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    margin: 15pt;
+    text-align: justify;
+    font-size: 12;
+}
+
+
+body, html {
+  margin: 0;
+  padding: 0;
+  background-color: lightblue;
+}
+

@@ -1,0 +1,20 @@
+h1 {
+  font-family: "Jersey 15", sans-serif;
+  display: block;
+  align-items: center;
+  font-size: 40pt;
+}
+
+.divImg {
+    height: 300px;
+    width: auto;
+}
+
+.divPnf {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 80vh;
+
+}

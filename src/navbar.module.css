@@ -1,0 +1,30 @@
+ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    gap: 20pt;
+    justify-content: center;
+    padding-top: 15px;
+    font-size: 20pt;
+    font-family: "Jersey 15", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #2d3436;
+    
+}
+
+img {
+    height: 16pt;
+    padding-right: 5pt;
+}
+
+li {
+    border: 2px solid;
+    padding: 4px;
+    width: 200px;
+    height: 35px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 30px;
+}

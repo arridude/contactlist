@@ -1,0 +1,37 @@
+
+.h2tag {
+    font-family: "Jersey 15", sans-serif;
+    font-size: 30pt;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.ptag {
+    font-family: "Raleway", sans-serif;
+    font-size: 11pt;
+}
+
+.divtag {
+    display: grid;
+    grid-template-columns: max-content 250px;
+    grid-template-rows:  auto;
+    gap: 15px 20px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.button {
+    grid-column: span 2;
+    justify-self: center;
+    border-radius: 5pt;
+    width: 100pt;
+    height: 20pt;
+    background-color: antiquewhite;
+    font-family: "Raleway", sans-serif;
+    margin-top: 10px;      
+    cursor: pointer;
+}
+
+
